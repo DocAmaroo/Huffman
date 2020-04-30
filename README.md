@@ -9,6 +9,7 @@
 
 ### Fonctionnement
 Pour compiler le programme : `make`
+
 Affichage de l'aide : `./huf -h` ou `./huf -help`
 
 ⚠️ Je déconseille l'utilisation de la table ASCII étendue, cela peut marcher mais je ne vous garantie rien !
